@@ -23,8 +23,8 @@ def fun(Rs):
 
 
 # these are the resistance R_AB,CD and R_BC,AD respectivly
-R1 = 65
-R2 = 89
+R1 = 10.0955
+R2 = 281.679
 
 # plot the fuction
 Rs = np.linspace(0, 10*np.sqrt(R1*R2), 200)
